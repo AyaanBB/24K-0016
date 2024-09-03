@@ -6,6 +6,8 @@ My interests are physical activities like football, badminton, and table tennis.
 
 I am currently enrolled in the BS-AI program at FAST-NUCES.
 
+This decision was very tough to make
+
 [image.(https://assets.change.org/photos/2/vo/vq/SYVovqxHCXaZwYq-800x450-noPad.jpg?1535746159)]
 
 Here are some pseudocodes we did in class:
